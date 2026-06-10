@@ -100,24 +100,24 @@ const config: Config = {
           ],
         },
         {
-          title: 'Community',
+          title: 'Redes sociales',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              label: 'WhatsApp',
+              href: 'https://wa.me/573102133504',
             },
             {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
+              label: 'YouTube',
+              href: 'https://www.youtube.com/channel/UCwblJFABwBn1NHvAhgxPCIw',
             },
             {
-              label: 'X',
-              href: 'https://x.com/docusaurus',
+              label: 'Facebook',
+              href: 'https://m.facebook.com/people/Pijaos-Salud-Eps-Indigena/100072430669698/',
             },
           ],
         },
         {
-          title: 'More',
+          title: 'Más',
           items: [
             {
               label: 'Blog',
@@ -130,7 +130,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Gesinova Devdocs.`,
     },
     prism: {
       theme: prismThemes.github,
