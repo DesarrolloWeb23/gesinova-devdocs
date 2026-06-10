@@ -1,4 +1,9 @@
 yangshun:
   name: Fabian Rojas
   title: Desarrollador Junior
-  image_url: https://github.com/yangshun.png
+  image_url: https://api.dicebear.com/10.x/miniavs/svg
+
+fabian:
+  name: Michael Rojas
+  title: Desarrollador Junior
+  image_url: https://api.dicebear.com/10.x/miniavs/svg
