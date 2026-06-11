@@ -43,6 +43,7 @@ const config: Config = {
           sidebarPath: './sidebars.ts',
         },
         blog: {
+          routeBasePath: 'tecnical',
           showReadingTime: true,
           feedOptions: {
             type: ['rss', 'atom'],
